@@ -15,7 +15,7 @@ class UsersTableSeeder extends Seeder
         	'name' => 'Phạm Tiến Đạt',
         	'email' => 'phamtiendathaui@gmail.com',
         	'password' => Hash::make('phamtiendat1603'),
-        	'role' => 1
+        	'ruler' => 1
         ]);
     }
 }
